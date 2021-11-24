@@ -16,7 +16,7 @@ fun main() {
 
 fun init() {
     var playerScore = 0
-    var botScore = 0;
+    var botScore = 0
 
     println(logo + "\n")
     var i = 0;
